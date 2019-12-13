@@ -9,6 +9,7 @@ h1
 {
 	font-weight: bold;
 	font-size: 24.0pt;
+	color: #ff0000;
 }
 
 h2
@@ -86,5 +87,11 @@ MadCap|dropDownHotspot
 	font-style: italic;
 	text-decoration: none;
 	color: #006600;
+}
+
+h1.Color
+{
+	font-weight: bold;
+	font-size: 24.0pt;
 }
 
